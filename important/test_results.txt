@@ -1,0 +1,9 @@
+Test Accuracy: 98.97%
+Test Loss: 0.6179
+accuracy: 98.9691
+precision_macro: 98.9796
+recall_macro: 98.9642
+f1_macro: 98.8971
+precision_weighted: 98.9898
+recall_weighted: 98.9691
+f1_weighted: 98.9054
